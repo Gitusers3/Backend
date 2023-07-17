@@ -2,7 +2,6 @@ import React from 'react'
 
 export default function  hello() {
   return (
-    <div> hello ghjklkjhgfhj
-    </div>
+    <div><button>hello</button></div>
   )
 }
